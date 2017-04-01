@@ -872,6 +872,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/ellen-miller.jpg");
 }
 
+#ellen-park-cover {
+ background-image: url("http://espark.dreamhosters.com/images/newyork_skyline.jpg");
+}
+
+#ellen-park-card {
+ background-image: url("http://espark.dreamhosters.com/images/teaneck.jpg");
+}
+
 #william-mena-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/william-mena-cover.jpg");
 }
